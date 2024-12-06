@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+ZBET – Thiên Đường Cá Cược Trực Tuyến Với Hàng Loạt Ưu Đãi Thế Kỉ
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`ZBET <https://zbet.movie/>`_ là Thiên Đường Cá Cược Trực Tuyến Với Hàng Loạt Ưu Đãi Thế Kỉ, nổi bật với đa dạng chuyên mục kèo cược và các trò chơi hấp dẫn, mang đến trải nghiệm giải trí trực tuyến tuyệt vời cho hội viên. Với kho game phong phú bao gồm cá cược thể thao, casino, bắn cá đổi thưởng, xổ số và đua ngựa, ZBET đáp ứng đầy đủ sở thích của người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Giao diện hiện đại, thân thiện và hệ thống bảo mật cao giúp tạo sự an tâm cho người dùng. Bên cạnh đó, ZBET còn cung cấp chương trình khuyến mãi đa dạng và dịch vụ chăm sóc khách hàng chuyên nghiệp 24/7. Với vị thế vững mạnh, ZBET chính là điểm đến lý tưởng cho những ai yêu thích cá cược trực tuyến.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 2841 Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0965854227. 
 
-.. toctree::
+Email: info@zbet.movie. 
 
-   usage
-   api
+Website: https://zbet.movie/ 
+
+#zbet #link_vào_zbet #trang_chủ_zbet #nhà_cái_zbet
